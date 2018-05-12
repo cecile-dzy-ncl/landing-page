@@ -1,0 +1,59 @@
+body {
+ 	background: rgb(245,245,245);
+	color: #565264;
+ 	font-size: 25px;
+ 	font-family: 'Dosis', sans-serif;
+ 	margin: 0;
+}
+
+#banner {
+	text-align: center;
+	background-image: url("https://picsum.photos/200/300/?image=1073");
+	background-size: cover;
+	padding: 100px;
+}
+
+h1 {
+	font-family: 'Shadows Into Light', cursive;
+	color: #090C9B;
+	font-weight: bold;
+ 	font-size: 36px;
+ 	text-align: center;
+}
+
+.cardz {
+	text-align: center;
+	padding: 80px;
+}
+
+h2 {
+	font-family: 'Shadows Into Light', cursive;
+	color: #A6808C;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+a {
+	color: #090C9B;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #3D518C;
+}	
+
+#footer {
+	text-align: center;
+	background-image: url("https://picsum.photos/200/300/?image=940");
+	background-size: cover;
+	padding: 100px;
+	color: white;
+}
+
+.social {
+	color: white;
+}
+
+.social:hover {
+	color: rgb(200;200;200);
+}
